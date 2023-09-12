@@ -18,5 +18,4 @@ Googleによるオンラインコース「[Android Basics with Compose](https://
 - `Modifier` パラメータを使用して、Jetpack Compose UI 要素をカスタマイズする
 
 ## Screenshot - 成果物
-
-![businessCardApp_screenshot](./businessCardApp_screenshot.png)
+<img width="300" src="./businessCardApp_screenshot.png">
